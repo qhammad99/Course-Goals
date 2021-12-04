@@ -215,6 +215,7 @@ const styles = StyleSheet.create({
     marginBottom: 20
   },
   mainContainer:{
+    flex:1,
     paddingTop:20, 
     padding:50
   }
